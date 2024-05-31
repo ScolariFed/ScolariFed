@@ -1,6 +1,7 @@
 I’m Scolari Federico
 PhD Student at Dept.. of Experimental Biomedical and Clinical Sciences, Universty of Florence, Florence, Italy
-mail: federico.scolari@unifi.it
+
+You can reach me at federico.scolari@unifi.it
 
 I write some R code focusing on biostatistics/data analysis and (a little) bioinformatics
 
