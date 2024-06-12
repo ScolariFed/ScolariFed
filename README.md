@@ -1,5 +1,5 @@
 I’m Scolari Federico
-PhD Student at Dept.. of Experimental Biomedical and Clinical Sciences, Universty of Florence, Florence, Italy
+PhD Student at Dept. of Experimental Biomedical and Clinical Sciences, Universty of Florence, Florence, Italy
 
 I write some R code focusing on biostatistics/data analysis and (a little) bioinformatics
 
